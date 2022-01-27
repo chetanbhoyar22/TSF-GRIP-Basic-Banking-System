@@ -1,5 +1,6 @@
 # Task 1 - Basic-Banking-System
-Internship At **The Sparks Foundation**
+
+Internship at **The Sparks Foundation**
 
 **FRONT END** : HTML, CSS
 
